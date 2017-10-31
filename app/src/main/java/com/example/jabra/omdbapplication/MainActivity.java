@@ -87,6 +87,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onChange() {
         movies = DatabaseMovies.getDatabase(this).MovieDao().getAll();
         movieAdapter.notifyDataSetChanged();
+        textMessage.setVisibility(View.GONE);
     }
 
 
