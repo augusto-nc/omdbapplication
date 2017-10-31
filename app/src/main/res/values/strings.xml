@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OMDb Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="nao_possui_filme">Você não ainda não possue filmes Cadastrados</string>
+    <string name="buscar_filmes">Buscas Filmes</string>
+    <string name="titulo_filme">Título do filme</string>
+    <string name="buscar">Buscar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="sem_resultados">A busca não retornou resultados</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+    <string name="genero">Gênero</string>
+    <string name="duracao">Duração</string>
+    <string name="lancamento">Lançamento</string>
+    <string name="atores">Atores</string>
+</resources>
